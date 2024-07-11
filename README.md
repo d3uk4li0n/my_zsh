@@ -9,3 +9,6 @@ make fclean --> to clean up after usage
 This shell can run a limited number of commands  
 ls - pwd - cd - exit - echo - which  
 and few others
+
+# Final notes
+Honest and respectful feedbacks are appreciated 
